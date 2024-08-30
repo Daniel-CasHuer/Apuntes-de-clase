@@ -6,6 +6,6 @@
 ## Evaluación
 |Cortes        |Porcentajes|Metodos   |
 |--------------|-----------|----------|
-|Primer corte  | 20%       |          |
+|Primer corte  | 20%       |Parcial   |
 |Segundo corte | 30%       |          |   
 |Tercer corte  | 50%       |          |  
